@@ -6,3 +6,4 @@
 ### 3. Open SQL , insert, update, delete, modify komutlarini kullanan kod yazin
 
 # Odevler 1 dosya halinde verilebilir.
+[Abdulsamed 2. ödev.pdf](https://github.com/Erciyes-Anadolu-Holding-ABAP-Bootcamp/homework2-abdulsamedseyhan/files/13854551/Abdulsamed.2.odev.pdf)
